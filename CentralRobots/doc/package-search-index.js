@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.cristian.centralrobots.core"},{"l":"com.cristian.centralrobots.domain"},{"l":"com.cristian.centralrobots.robots"},{"l":"com.cristian.centralrobots.server"}];updateSearchResults();
